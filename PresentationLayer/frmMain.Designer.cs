@@ -214,6 +214,7 @@
             tsmiManageApplicationTypes.Name = "tsmiManageApplicationTypes";
             tsmiManageApplicationTypes.Size = new Size(428, 74);
             tsmiManageApplicationTypes.Text = "Manage Application Types";
+            tsmiManageApplicationTypes.Click += tsmiManageApplicationTypes_Click;
             // 
             // tsmiManageTestTypes
             // 
@@ -223,6 +224,7 @@
             tsmiManageTestTypes.Name = "tsmiManageTestTypes";
             tsmiManageTestTypes.Size = new Size(428, 74);
             tsmiManageTestTypes.Text = "Manage Test Types";
+            tsmiManageTestTypes.Click += tsmiManageTestTypes_Click;
             // 
             // tsmiPeople
             // 

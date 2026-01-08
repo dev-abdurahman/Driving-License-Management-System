@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using BusinessLogicLayer;
 using PresentationLayer.Users;
 using DVLD.Classes;
+using PresentationLayer.ApplicationTypes;
 
 namespace PresentationLayer
 {
@@ -82,6 +83,17 @@ namespace PresentationLayer
         private void frmMain_FormClosing(object sender, FormClosingEventArgs e)
         {
             _frmLogin.Close();
+        }
+
+        private void tsmiManageTestTypes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tsmiManageApplicationTypes_Click(object sender, EventArgs e)
+        {
+            frmManageApplicationTypes frm = new frmManageApplicationTypes();
+            frm.ShowDialog();
         }
     }
 }

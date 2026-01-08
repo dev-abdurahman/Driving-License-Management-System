@@ -1083,6 +1083,16 @@ namespace PresentationLayer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap product_description32 {
+            get {
+                object obj = ResourceManager.GetObject("product-description32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Question_32 {
             get {
                 object obj = ResourceManager.GetObject("Question 32", resourceCulture);
@@ -1306,6 +1316,16 @@ namespace PresentationLayer.Properties {
         internal static System.Drawing.Bitmap TestType_512 {
             get {
                 object obj = ResourceManager.GetObject("TestType 512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap text32 {
+            get {
+                object obj = ResourceManager.GetObject("text32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
