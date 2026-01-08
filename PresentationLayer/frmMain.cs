@@ -11,6 +11,7 @@ using BusinessLogicLayer;
 using PresentationLayer.Users;
 using DVLD.Classes;
 using PresentationLayer.ApplicationTypes;
+using PresentationLayer.Tests;
 
 namespace PresentationLayer
 {
@@ -87,7 +88,8 @@ namespace PresentationLayer
 
         private void tsmiManageTestTypes_Click(object sender, EventArgs e)
         {
-
+            frmManageTestTypes frm = new frmManageTestTypes();
+            frm.ShowDialog();
         }
 
         private void tsmiManageApplicationTypes_Click(object sender, EventArgs e)

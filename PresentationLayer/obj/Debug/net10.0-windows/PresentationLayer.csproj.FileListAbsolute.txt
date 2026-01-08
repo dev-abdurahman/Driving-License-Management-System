@@ -144,3 +144,5 @@ C:\Users\abood\source\repos\DVLD\PresentationLayer\obj\Debug\net10.0-windows\Pre
 C:\Users\abood\source\repos\DVLD\PresentationLayer\obj\Debug\net10.0-windows\PresentationLayer.frmUpdateApplicationType.resources
 C:\Users\abood\source\repos\DVLD\PresentationLayer\obj\Debug\net10.0-windows\PresentationLayer.sourcelink.json
 C:\Users\abood\source\repos\DVLD\PresentationLayer\obj\Debug\net10.0-windows\PresentationLayer.ApplicationTypes.frmManageApplicationTypes.resources
+C:\Users\abood\source\repos\DVLD\PresentationLayer\obj\Debug\net10.0-windows\PresentationLayer.Tests.frmManageTestTypes.resources
+C:\Users\abood\source\repos\DVLD\PresentationLayer\obj\Debug\net10.0-windows\PresentationLayer.Tests.frmUpdateTestType.resources

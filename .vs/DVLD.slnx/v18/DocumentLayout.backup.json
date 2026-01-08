@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\abood\\source\\repos\\DVLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\applicationtypes\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\applicationtypes\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\tests\\frmmanagetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\tests\\frmmanagetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\applicationtypes\\frmupdateapplicationtype.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\applicationtypes\\frmupdateapplicationtype.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\tests\\frmmanagetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\tests\\frmmanagetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{730B70F7-9DE4-4A78-9AE3-484E5AA11B58}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\dataaccesslayer\\clsapplicationtypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{730B70F7-9DE4-4A78-9AE3-484E5AA11B58}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsapplicationtypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\tests\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\tests\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\applicationtypes\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\applicationtypes\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\tests\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\tests\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44972E28-0233-4AB3-9A4F-9857253B3358}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\businesslogiclayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44972E28-0233-4AB3-9A4F-9857253B3358}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\people\\frmpeoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\people\\frmpeoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\applicationtypes\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\applicationtypes\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\tests\\frmmanagetesttypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\tests\\frmmanagetesttypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\applicationtypes\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\applicationtypes\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\people\\frmpeoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\people\\frmpeoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\people\\frmpeoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\people\\frmpeoplelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\abood\\source\\repos\\dvld\\presentationlayer\\users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B4CFD2-5728-0F00-60C4-E24DAE522468}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\users\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +54,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 359,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmUpdateTestType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmUpdateTestType.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Tests\\frmUpdateTestType.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmUpdateTestType.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Tests\\frmUpdateTestType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T20:23:17.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUpdateTestType.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmUpdateTestType.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Tests\\frmUpdateTestType.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmUpdateTestType.cs",
+              "RelativeToolTip": "PresentationLayer\\Tests\\frmUpdateTestType.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T20:07:34.477Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -71,79 +100,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "clsPerson.cs",
-              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\BusinessLogicLayer\\clsPerson.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\clsPerson.cs",
-              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\BusinessLogicLayer\\clsPerson.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\clsPerson.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAEwHMAAAAkAAAAAAAAAA==",
+              "Title": "frmPeopleList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\People\\frmPeopleList.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\People\\frmPeopleList.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\People\\frmPeopleList.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\People\\frmPeopleList.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:46:14.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clsApplicationTypeData.cs",
-              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\DataAccessLayer\\clsApplicationTypeData.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\clsApplicationTypeData.cs",
-              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\DataAccessLayer\\clsApplicationTypeData.cs",
-              "RelativeToolTip": "DataAccessLayer\\clsApplicationTypeData.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwDwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:44:25.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmManageApplicationTypes.cs",
-              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmManageApplicationTypes.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\ApplicationTypes\\frmManageApplicationTypes.cs",
-              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmManageApplicationTypes.cs*",
-              "RelativeToolTip": "PresentationLayer\\ApplicationTypes\\frmManageApplicationTypes.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:27:57.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmUpdateApplicationType.cs",
-              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.cs",
-              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.cs*",
-              "RelativeToolTip": "PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T15:00:10.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T19:50:46.66Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmUpdateApplicationType.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.Designer.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.Designer.cs",
-              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.Designer.cs",
-              "RelativeToolTip": "PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Title": "frmManageTestTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmManageTestTypes.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Tests\\frmManageTestTypes.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmManageTestTypes.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Tests\\frmManageTestTypes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:06:59.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T19:45:32.928Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmManageApplicationTypes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmManageApplicationTypes.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\ApplicationTypes\\frmManageApplicationTypes.cs",
-              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmManageApplicationTypes.cs [Design]*",
-              "RelativeToolTip": "PresentationLayer\\ApplicationTypes\\frmManageApplicationTypes.cs [Design]*",
+              "DocumentIndex": 0,
+              "Title": "frmManageTestTypes.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmManageTestTypes.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Tests\\frmManageTestTypes.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmManageTestTypes.cs",
+              "RelativeToolTip": "PresentationLayer\\Tests\\frmManageTestTypes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:14:57.221Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-08T19:43:00.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -154,7 +143,7 @@
               "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\frmMain.cs [Design]",
               "RelativeToolTip": "PresentationLayer\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:40:10.079Z",
+              "WhenOpened": "2026-01-08T19:47:54.114Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -165,34 +154,61 @@
               "RelativeDocumentMoniker": "PresentationLayer\\frmMain.cs",
               "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\frmMain.cs",
               "RelativeToolTip": "PresentationLayer\\frmMain.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwFoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:40:15.007Z",
+              "WhenOpened": "2026-01-08T19:47:59.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmManageTestTypes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmManageTestTypes.Designer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Tests\\frmManageTestTypes.Designer.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Tests\\frmManageTestTypes.Designer.cs",
+              "RelativeToolTip": "PresentationLayer\\Tests\\frmManageTestTypes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:42:50.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "frmUpdateApplicationType.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.cs",
-              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.cs [Design]*",
-              "RelativeToolTip": "PresentationLayer\\ApplicationTypes\\frmUpdateApplicationType.cs [Design]*",
+              "Title": "frmPeopleList.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\People\\frmPeopleList.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\People\\frmPeopleList.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\People\\frmPeopleList.cs",
+              "RelativeToolTip": "PresentationLayer\\People\\frmPeopleList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:14:05.218Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-08T19:50:47.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "frmPeopleList.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\People\\frmPeopleList.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\People\\frmPeopleList.cs",
-              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\People\\frmPeopleList.cs [Design]",
-              "RelativeToolTip": "PresentationLayer\\People\\frmPeopleList.cs [Design]",
+              "Title": "frmManageUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Users\\frmManageUsers.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Users\\frmManageUsers.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Users\\frmManageUsers.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Users\\frmManageUsers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:24:26.6Z",
+              "WhenOpened": "2026-01-08T19:51:14.036Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Users\\frmManageUsers.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Users\\frmManageUsers.cs",
+              "ToolTip": "C:\\Users\\abood\\source\\repos\\DVLD\\PresentationLayer\\Users\\frmManageUsers.cs",
+              "RelativeToolTip": "PresentationLayer\\Users\\frmManageUsers.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:51:15.233Z",
+              "EditorCaption": ""
             }
           ]
         }
