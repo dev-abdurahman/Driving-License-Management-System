@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Applications\ApplicationTypes\frmManageApplicationTypes.cs">
+    <Compile Update="Applications\Application Types\frmManageApplicationTypes.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Applications\ApplicationTypes\frmUpdateApplicationType.cs">
+    <Compile Update="Applications\Application Types\frmUpdateApplicationType.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Login\frmLogin.cs">
@@ -28,7 +28,7 @@
     <Compile Update="People\frmShowPersonInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tests\frmUpdateTestType.cs">
+    <Compile Update="Tests\Test Types\frmUpdateTestType.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Users\Controls\ucUserInfo.cs">

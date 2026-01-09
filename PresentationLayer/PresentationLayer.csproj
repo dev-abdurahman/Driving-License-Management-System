@@ -22,7 +22,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Update="Tests\frmManageTestTypes.cs">
+    <Compile Update="Tests\Test Types\frmManageTestTypes.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
